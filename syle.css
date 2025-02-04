@@ -17,3 +17,9 @@ img {
     border-style: groove;
     border-color:#2b3632;
 }
+
+help {
+    color:#beccc8;
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
