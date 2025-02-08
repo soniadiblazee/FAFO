@@ -8,7 +8,8 @@ body {
     color:#2b3632;
     padding:0;
     margin:3px;
-    font-family:Georgia, 'Times New Roman', Times, serif
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
 }
 
 img {
