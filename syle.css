@@ -22,4 +22,12 @@ img {
 .containment {
     text-align: center;
     color:#beccc8;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.text1 {
+    color:#beccc8;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 22px;
 }
