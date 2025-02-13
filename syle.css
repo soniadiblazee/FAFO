@@ -5,10 +5,11 @@ h1 {
 }
 
 body {
-    color:#2b3632;
+    color:#beccc8;
     padding:0;
     margin:3px;
-    font-family:Georgia, 'Times New Roman', Times, serif
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #2b3632;
 }
 
 img {
@@ -16,5 +17,9 @@ img {
     border-radius: 100%;
     border-style: groove;
     border-color:#2b3632;
-    
+}
+
+.containment {
+    text-align: center;
+    color:#beccc8;
 }
