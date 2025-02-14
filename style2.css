@@ -1,0 +1,23 @@
+.box {
+    font-size: 100px;
+    font-family:'Courier New', Courier, monospace;
+    text-align: right;
+    color: #c3ff00;
+}
+
+body {
+    background-color: #00ffea;
+}
+
+.paradox {
+    animation: rotation 0.01s infinite linear;
+  }
+
+  @keyframes rotation {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(359deg);
+    }
+  }
