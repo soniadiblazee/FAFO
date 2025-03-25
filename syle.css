@@ -31,3 +31,20 @@ img {
     text-align: center;
     font-size: 22px;
 }
+
+.peak {
+    background-color: #858f8c;
+    padding: 10px;
+    max-width: 850px;
+    margin:20px;
+    border-radius: 8px;
+    box-shadow: 0 0 13px rgba(3, 10, 17, 1);
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.links-and-stuff {
+    font-size: 225%;
+    font-family: monospace;
+    color: #2b3632;
+}
